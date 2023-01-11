@@ -1,3 +1,1 @@
-start-process calc
-sleep 1
-start-process notepad
+notepad
