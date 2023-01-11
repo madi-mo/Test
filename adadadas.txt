@@ -1,1 +1,3 @@
 start-process calc
+
+start-process notepad
