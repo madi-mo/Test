@@ -1,3 +1,1 @@
-start-process notepad
-
-start-process calc
+start-process winver
