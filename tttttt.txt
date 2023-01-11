@@ -1,0 +1,3 @@
+start-process notepad
+
+start-process calc
